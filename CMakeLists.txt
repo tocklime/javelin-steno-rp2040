@@ -93,6 +93,8 @@ target_sources(${NAME} PUBLIC
   javelin/dictionary/unicode_dictionary.cc
   javelin/dictionary/user_dictionary.cc
   javelin/dictionary/wrapped_dictionary.cc
+  javelin/dictionary/orthospelling_dictionary.cc
+  javelin/dictionary/orthospelling_data.cc
   javelin/engine_add_translation_mode.cc
   javelin/engine_binding.cc
   javelin/engine_console_mode.cc
